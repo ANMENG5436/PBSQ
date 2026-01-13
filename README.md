@@ -14,14 +14,14 @@ sists of two components: Prior-Aware Query (PAQ), which constructs query
 templates by integrating train dataset priors, and Prior-Driven Activation
 (PDA), which activates identity-specific features through prior-guided at-
 tention. Experiments on few-shot face recognition benchmarks demonstrate
-consistent improvements over existing methods
+consistent improvements over existing methods.
 
 
-# 少样本人脸识别
+# few-shot face recognition
 
-| 标签 | 模型 |
+| label | model |
 |------|----------|
-| 1%   | [点击下载](https://pan.quark.cn/s/01c504e3ece9) |
-| 10%  | [点击下载](https://pan.quark.cn/s/c620c27814fd) |
+| 1%   | [download](https://pan.quark.cn/s/01c504e3ece9) |
+| 10%  | [download](https://pan.quark.cn/s/c620c27814fd) |
 
-# 持续更新...
+# Continuously updating...
