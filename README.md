@@ -13,18 +13,16 @@
 用于上下文感知的语义增强的标记嵌入。PBSQ con-
 由两个部分组成： prior-aware query (PAQ)，它构建查询
 通过整合训练数据集先验和先验驱动激活的模板
-(PDA), which activates identity-specific features through prior-guided at-
-tention. Experiments on few-shot face recognition benchmarks demonstrate
-consistent improvements over existing methods.
+(PDA)，通过先验引导激活特定身份的特征
+注意。在少样本人脸识别基准上的实验表明
+在现有方法基础上的一致改进。
 
 
-# few-shot face recognition
+# 少样本人脸识别
 
-1% 
-https://pan.quark.cn/s/01c504e3ece9
-
-
-10%
-https://pan.quark.cn/s/c620c27814fd
+| label | models |
+|------|----------|
+| 1%   | [点击下载](https://pan.quark.cn/s/01c504e3ece9) |
+| 10%  | [点击下载](https://pan.quark.cn/s/c620c27814fd) |
 
 # 持续更新...
