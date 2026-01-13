@@ -1,26 +1,25 @@
 # PBSQ
 
 
-
-视觉转换器（ViTs）在面部识别方面表现出希望。
-但在少样本情况下由于缺乏会遭受严重的过拟合。
-关于归纳偏置。通过分析ViT的嵌入学习行为
-在面部识别任务中，我们发现提高判别性
-所有输出嵌入的权力对于少样本识别至关重要
-性能，但缺乏足够的训练样本时具有挑战性。为了重新
-针对这一限制，我们提出了一种具有先验知识的双向语义查询
-机制 (PBSQ) 通过明确纳入数据集级的潜在先验分布
-用于上下文感知的语义增强的标记嵌入。PBSQ con-
-由两个部分组成： prior-aware query (PAQ)，它构建查询
-通过整合训练数据集先验和先验驱动激活的模板
-(PDA)，通过先验引导激活特定身份的特征
-注意。在少样本人脸识别基准上的实验表明
-在现有方法基础上的一致改进。
+Vision Transformers (ViTs) have shown promise for face recognition,
+but suffer from severe overfitting in few-shot scenarios due to their lack
+of inductive bias. Through analysis of ViT’s embedding learning behav-
+ior on facial recognition tasks, we find that improving the discriminative
+power of all output token embeddings is critical for few-shot recognition
+performance, yet challenging without sufficient training samples. To rem-
+edy this limitation, we propose a Prior-Aware Bidirectional Semantic Query
+mechanism (PBSQ) that explicitly incorporates dataset-level latent priors
+for context-aware semantic enhancement of token embeddings. PBSQ con-
+sists of two components: Prior-Aware Query (PAQ), which constructs query
+templates by integrating train dataset priors, and Prior-Driven Activation
+(PDA), which activates identity-specific features through prior-guided at-
+tention. Experiments on few-shot face recognition benchmarks demonstrate
+consistent improvements over existing methods
 
 
 # 少样本人脸识别
 
-| label | models |
+| 标签 | 模型 |
 |------|----------|
 | 1%   | [点击下载](https://pan.quark.cn/s/01c504e3ece9) |
 | 10%  | [点击下载](https://pan.quark.cn/s/c620c27814fd) |
