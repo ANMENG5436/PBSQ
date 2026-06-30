@@ -1,4 +1,8 @@
-# PBSQ
+
+Our code is partly borrowed from DINO (https://github.com/facebookresearch/dino) and LAFS(https://github.com/szlbiubiubiu/LAFS_CVPR2024).
+
+
+# PBSQ-Abstract
 
 
 Vision Transformers (ViTs) have shown promise for face recognition,
