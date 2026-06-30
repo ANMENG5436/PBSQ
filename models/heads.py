@@ -1,3 +1,4 @@
+"""Face recognition classification heads."""
 
 from .common import *
 
